@@ -1,5 +1,4 @@
 # Pamela Kuang
-# Student ID: 111002135
 # Note: I've used Professor's Kane in class examples to define my Node class and AST.
 import sys
 
